@@ -1,0 +1,27 @@
+9
+hola
+1
+
+Quimica
+6.0
+3.0
+2
+Taller
+100
+60
+1
+-1
+0.0
+Examen
+2
+1
+Quimica
+Quimica II
+3.0
+1
+Final
+1
+5.5
+3.0
+5
+6

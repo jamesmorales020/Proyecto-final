@@ -1,0 +1,51 @@
+
+====== SEMAFORO ACADEMICO ======
+1. Registrar materia
+2. Registrar o cambiar una nota
+3. Consultar riesgo de una materia
+4. Simular notas pendientes
+5. Ver reporte de todas las materias
+6. Salir
+Elija una opcion: Nombre de la materia: Nota meta (0.1 a 5.0): Cuantas evaluaciones (1 a 5): 
+Evaluacion 1
+Nombre de la evaluacion: Porcentaje (1 a 99): 1. Ya tiene nota / 2. Pendiente: Nota (0.0 a 5.0): 
+Evaluacion 2
+Nombre de la evaluacion: Porcentaje asignado: 60%
+1. Ya tiene nota / 2. Pendiente: Nota (0.0 a 5.0): Materia registrada. Porcentajes: 100%.
+
+====== SEMAFORO ACADEMICO ======
+1. Registrar materia
+2. Registrar o cambiar una nota
+3. Consultar riesgo de una materia
+4. Simular notas pendientes
+5. Ver reporte de todas las materias
+6. Salir
+Elija una opcion: 1. Redes I
+Seleccione la materia: 
+----- Redes I -----
+Meta: 3.00 | Acumulado: 2.70 | Pendiente: 0%
+Maxima nota final posible: 2.70
+Resultado: materia finalizada, meta NO cumplida.
+
+====== SEMAFORO ACADEMICO ======
+1. Registrar materia
+2. Registrar o cambiar una nota
+3. Consultar riesgo de una materia
+4. Simular notas pendientes
+5. Ver reporte de todas las materias
+6. Salir
+Elija una opcion: 1. Redes I
+Seleccione la materia: 
+SIMULACION (no cambia las notas guardadas)
+No quedan evaluaciones pendientes.
+Nota final simulada: 2.70
+Con esas notas NO se cumple la meta.
+
+====== SEMAFORO ACADEMICO ======
+1. Registrar materia
+2. Registrar o cambiar una nota
+3. Consultar riesgo de una materia
+4. Simular notas pendientes
+5. Ver reporte de todas las materias
+6. Salir
+Elija una opcion: Hasta luego. Los datos no se guardan al salir.
